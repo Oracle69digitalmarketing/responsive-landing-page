@@ -87,7 +87,7 @@ If you have any questions or feedback, feel free to reach out:
 
 Email: support@oracle69.com
 
-Phone: +234 812 345 6789
+Phone: +234 8039271978
 
 Twitter: @Oracle69 | @TessyfarmApp
 
