@@ -1,98 +1,66 @@
-# Oracle69 Digital Marketing & Tessyfarm Website
+Oracle69 Landing Page – Harmony Marketing Hub & Tessyfarm Application
 
-Welcome to the official website for **Oracle69 Digital Marketing** and **Tessyfarm**. This website serves as a showcase for our innovative solutions that empower growth and drive impact across industries, focusing on **smart marketing automation** and **sustainable agriculture**.
+This is a responsive HTML and CSS landing page for Oracle69, showcasing two core innovations: the Harmony Marketing Hub and the Tessyfarm Application. The page highlights features, testimonials, pricing plans, and more—crafted for a clean, modern user experience across all devices.
 
-## Overview
+Features
 
-- **Oracle69 Digital Marketing** is dedicated to scaling businesses with intelligent automation, data-driven strategies, and tailored content systems.
-- **Tessyfarm** leverages technology to transform agriculture with smart tools, zero-waste systems, and eco-friendly innovations, making it easier for farmers to optimize their operations and supply chains.
+Hero Section: Bold headline, value proposition, and CTA.
 
-## Features
+Responsive Features Section: Highlights for both platforms with icons and short descriptions.
 
-- **Hero Section**: Highlights the mission of Oracle69 Digital Marketing and Tessyfarm with an engaging call-to-action button.
-- **Features Section**: Divided into three sections: 
-  - **Harmony Marketing Hub**: Centralizes campaigns and automates workflows using AI insights.
-  - **Tessyfarm Application**: Provides farmers with tools and systems for efficient and eco-friendly farming practices.
-  - **Inclusive Innovation**: Focuses on blending technology, marketing, and agriculture to transform underserved communities.
-- **Footer Section**: Provides contact details, including email, phone number, and social media handles for Oracle69 and Tessyfarm.
+Product Screenshots Carousel: Showcases UI/UX visually.
 
-## Technologies Used
+Pricing Plans: Clear tiers for marketing or agri-tech users.
 
-- **HTML5**: For building the structure of the page.
-- **CSS3**: For styling the page, making it modern, responsive, and visually appealing.
-  - Uses custom styles with **Flexbox** and **CSS Grid** to create a flexible layout.
-  - **Media Queries** for responsive design, ensuring a good experience across mobile, tablet, and desktop devices.
-  
-## Getting Started
+Testimonials: Real user feedback to build trust.
 
-### 1. Clone the Repository
+Contact Form: Direct inquiries for leads and support.
 
-To clone this repository, use the following command:
+Responsive Design: Mobile-first layout using CSS Flexbox/Grid.
 
-```bash
-git clone https://github.com/yourusername/your-repository-name.git
-
-2. Open the Project
-
-Open the project in your favorite code editor, such as Visual Studio Code, and navigate to the HTML file (index.html) to view the project.
-
-3. Run the Project Locally
-
-Simply open the index.html file in any browser to see the page in action.
-
-open index.html
-
-4. Customize the Content
-
-Feel free to edit the content in the HTML file to tailor it to your own needs. Update images, text, and links to reflect your personal or business brand.
-
-5. Add More Features
-
-You can expand this project by adding more pages, forms, or integrating it with a backend system if needed.
-
-Folder Structure
-
-/ (root directory)
-│
-├── index.html          # Main HTML file
-├── styles.css          # Stylesheet for the website
-└── README.md           # Documentation about the project
-
-Contributing
-
-We welcome contributions! If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
+Oracle69 Branding: Custom colors, fonts, icons, and visuals.
 
 
-2. Create a new branch (git checkout -b feature-name).
+Technologies Used
+
+HTML5 (Semantic)
+
+CSS3 (Flexbox, Grid)
+
+Google Fonts + Icons
+
+FontAwesome (for icons)
+
+Responsive design principles
 
 
-3. Make your changes.
+Setup Instructions
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/oracle69-landing-page.git
 
 
-4. Commit your changes (git commit -am 'Add new feature').
+2. Open index.html in your browser.
 
 
-5. Push to the branch (git push origin feature-name).
+3. Customize images, videos, testimonials, and pricing as needed in the /assets folder.
 
 
-6. Create a new pull request.
 
+Screenshots
 
+Add screenshots to showcase hero section, features, carousel, and mobile view.
 
 Contact
 
-If you have any questions or feedback, feel free to reach out:
+Have feedback or want to collaborate?
 
-Email: support@oracle69.com
+Email: oracle69digital@gmail.com
 
-Phone: +234 8039271978
+Website: www.oracle69.com
 
-Twitter: @Oracle69 | @TessyfarmApp
+Phone: +2348039271978
 
 
 
----
-
-© 2025 Oracle69 Digital Marketing & Tessyfarm. All Rights Reserved.
